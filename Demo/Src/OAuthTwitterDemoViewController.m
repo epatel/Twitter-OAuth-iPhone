@@ -10,6 +10,7 @@
 #import "SA_OAuthTwitterEngine.h"
 
 
+#error ---------- Insert OAuth key+secret below (and comment out this #error)
 #define kOAuthConsumerKey				@""		//REPLACE ME
 #define kOAuthConsumerSecret			@""		//REPLACE ME
 
